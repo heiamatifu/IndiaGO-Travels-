@@ -1,0 +1,42 @@
+
+<div class="car-card">
+  <img src="images/innova_crysta.jpg" alt="Innova Crysta" onclick="openImage(this.src)" />
+  <h3>Innova Crysta</h3>
+  <button onclick="bookNow('Innova Crysta')">Book Now</button>
+  <button onclick="whatsappBook('Innova Crysta')">WhatsApp Book</button>
+</div>
+
+<div class="car-card">
+  <img src="images/ertiga.jpg" alt="Ertiga" onclick="openImage(this.src)" />
+  <h3>Ertiga</h3>
+  <button onclick="bookNow('Ertiga')">Book Now</button>
+  <button onclick="whatsappBook('Ertiga')">WhatsApp Book</button>
+</div>
+
+<div class="car-card">
+  <img src="images/swift_dzire.jpg" alt="Swift Dzire" onclick="openImage(this.src)" />
+  <h3>Swift Dzire</h3>
+  <button onclick="bookNow('Swift Dzire')">Book Now</button>
+  <button onclick="whatsappBook('Swift Dzire')">WhatsApp Book</button>
+</div>
+
+<div class="car-card">
+  <img src="images/fortuner.jpg" alt="Fortuner" onclick="openImage(this.src)" />
+  <h3>Fortuner</h3>
+  <button onclick="bookNow('Fortuner')">Book Now</button>
+  <button onclick="whatsappBook('Fortuner')">WhatsApp Book</button>
+</div>
+
+<div class="car-card">
+  <img src="images/tempo_traveller.jpg" alt="Tempo Traveller" onclick="openImage(this.src)" />
+  <h3>Tempo Traveller</h3>
+  <button onclick="bookNow('Tempo Traveller')">Book Now</button>
+  <button onclick="whatsappBook('Tempo Traveller')">WhatsApp Book</button>
+</div>
+
+<div class="car-card">
+  <img src="images/innova.jpg" alt="Innova" onclick="openImage(this.src)" />
+  <h3>Innova</h3>
+  <button onclick="bookNow('Innova')">Book Now</button>
+  <button onclick="whatsappBook('Innova')">WhatsApp Book</button>
+</div>
